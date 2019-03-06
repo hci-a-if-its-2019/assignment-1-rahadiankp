@@ -62,7 +62,7 @@ A -> Interviewee
 ![SKEM Planning Page](images/perencanaan.png)
 ![SKEM Realisation Page](images/realisasi.png)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model SKEM ITS](images/flow.png)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
