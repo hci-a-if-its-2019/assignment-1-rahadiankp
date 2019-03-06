@@ -58,7 +58,9 @@ A -> Interviewee
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![SKEM Main Page](images/main.png)
+![SKEM Planning Page](images/perencanaan.png)
+![SKEM Realisation Page](images/realisasi.png)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
