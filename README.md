@@ -6,12 +6,56 @@ Every achievement that is submitted by a student has certain amount of points. O
 1. User must input plans for current semester's SKEM
 2. User must input all achieved achievements and select the proper category in the portal
 ## User Description
-- Student of Physics Department of ITS
+- Student of Physics Engineering Department of ITS
 - Has several achievements during his study in ITS
 - Has not made any updates in SKEM ITS portal (no achievements has been submitted)
 - Claims that he is not familiar with the SKEM portal
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```text
+R -> Interviewer
+A -> Interviewee
+1.  R : Kamu mahasiswa jurusan apa?
+2.  A : Aku mahasiswa jurusan Teknik Fisika angkatan 2016
+3.  R : Kalo prestasi kamu selama jadi mahasiswa di ITS apa aja?
+4.  A : Lomba-lomba?
+5.  R : Iya. Kalo kamu jadi pengurus himpunan atau panitia event jurusan bisa juga
+6.  A : Oalah. Kalo lomba aku pernah juara futsal, tapi regional doang
+7.  A : Kalo panitia, pernah ngurus EPC itu. Sekarang aku ya jadi staff di himpunan
+8.  R : Mantap2. Prestasi2 tadi sudah kamu input di integra?
+9.  A : Ntar ae kalo mau lulus, sekalian.
+10. R : Berarti belum pernah buka sim SKEM yo?
+11. A : Ga pernah sama sekali, jarang buka integra juga
+12. R : Yawes. Sekarang coba buka sim SKEM, coba input prestasimu
+13. A : Ok, sek
+*buka sim SKEM*
+14. A : Lah kok gambar doang coy
+15. R : Eksplor dulu coba
+16. A : Oh ok, di header tok yang bisa diklik
+17. R : Ok. Sekarang coba input prestasimu di bagian perencanaan SKEM
+18. A : Perencanaan? Maksude?
+19. R : *menjelaskan perencanaan skem*
+20. A : Oh ok, aku cari dulu
+*1 menit kemudian*
+21. A : Lah kok semesternya 2114/2115? Ngawur
+22. R : Lanjut aja inputnya
+*A bingung mencari kategori prestasi yang cocok*
+23. A : Harusnya pisahin lah per kategori, jadi bingung. Banyak pol
+24. A : Nama kategori juga agak asing ato kurang cocok menurutku
+25. A : Parah pol ini drop down-nya. Tapi wes kelar untunge
+26. R : Mantap. Sekarang pake data prestasi yang sama, input realisasinya
+27. A : Oalah. Jadi yg tadi itu setelah direncanakan, terus direalisasikan. Baru ngeh
+26. R : Yoi. Sekarang coba input aja
+*masuk ke page realisasi dengan cepat*
+28. A : Lah harus input manual lagi?
+29. A : Tak kira ada centang prestasi apa aja yg tercapai dr page perencanaan tadi
+30. A : Susah nyari lg. Lupa kategorinya juga
+*A telah selesai menginput, memakan waktu 4 menit*
+31. R : Gimana? Gampang?
+32. A : Mending kasih lah fitur buat nyari kategori
+33. A : Kalo gak pisah per kategori, jd pilih kategori dulu, terus baru sub-subnya.
+34. R : Masuk akal. Ok lah, thx yo mau jd kelinci
+35. A : Yoi sans
+```
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
