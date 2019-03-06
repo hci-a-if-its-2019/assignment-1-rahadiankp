@@ -64,8 +64,6 @@ A -> Interviewee
 ### Flow Model
 ![Flow Model SKEM ITS](images/flow.png)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
-## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.  
+![Cultural Model SKEM ITS](images/cultural.png)
 ## References
 * [www.interaction-design.org](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design)
