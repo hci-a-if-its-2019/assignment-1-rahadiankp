@@ -71,7 +71,8 @@ A -> Interviewee
 # Remarks
 > * This case was a good one. I saw quite problematic issues on SKEM website UI.
 > * Overall contents are great, except for the Instruction Script. It should be written as instruction sentences rather than descriptive sentences, e.g., "Input your SKEM plan for current semester"
+> * Your contents lack of Do and Don't section.
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
-| 2            | 6                | 6               | 86                 | 80         | 84.8  |
+| 2            | 6                | 6               | 83                 | 80         | 82.4  |
