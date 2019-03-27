@@ -70,7 +70,7 @@ A -> Interviewee
 
 # Remarks
 > * This case was a good one. I saw quite problematic issues on SKEM website UI.
-> * Overall contents are great, except for the Instruction Script. It should be written as an instruction sentence rather than descriptive sentence, e.g., "Input your SKEM plan for current semester"
+> * Overall contents are great, except for the Instruction Script. It should be written as instruction sentences rather than descriptive sentences, e.g., "Input your SKEM plan for current semester"
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
