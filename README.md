@@ -67,3 +67,11 @@ A -> Interviewee
 ![Cultural Model SKEM ITS](images/cultural.png)
 ## References
 * [www.interaction-design.org](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design)
+
+# Remarks
+> * This case was a good one. I saw quite problematic issues on SKEM website UI.
+> * Overall contents are great, except for the Instruction Script. It should be written as an instruction sentence rather than descriptive sentence, e.g., "Input your SKEM plan for current semester"
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 6                | 6               | 86                 | 80         | 84.8  |
